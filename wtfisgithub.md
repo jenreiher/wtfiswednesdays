@@ -5,6 +5,7 @@
 
 ##Learning Tools
 * https://www.codecademy.com/learn/learn-git
+* [Awesome commandline git tutorial from CodeSchool] (https://www.codeschool.com/courses/try-git)
 * [Github markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * https://help.github.com/
 * https://guides.github.com/activities/hello-world/
