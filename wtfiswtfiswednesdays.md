@@ -18,7 +18,7 @@ Because we like our learning like we like our food - fresh, fun and convivial.
 6. Contribute to the github repo with what you learned. (optional!)
 
 #### One very important principle of wtfiswednesdays
-**This is a learning environment, and at to achieve this must be welcoming, respectful and accessible to all. At all times we ask participants to keep these two things in mind:**
+**WTFisWednesdays is a learning environment, as such must be welcoming, respectful and accessible to all. At all times we ask participants to keep these two things in mind:**
 
 _Never feel bad about knowing less about a topic than someone else. Learn from what they know! Someday, you will do the same for them._
 
