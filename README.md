@@ -1,4 +1,4 @@
-# WTFisWTFisWednesdays
+# WTFisWednesdays
 ## [WTF is WTFisWednesdays](https://github.com/jenreiher/wtfiswednesdays/blob/master/wtfiswtfiswednesdays.md)?!
 
 Past WTFIWs [Alphabetical]
