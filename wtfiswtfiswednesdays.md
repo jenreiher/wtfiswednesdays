@@ -17,8 +17,14 @@ Because we like our learning like we like our food - fresh, fun and convivial.
 5. Hangout and work on other projects, chat or ask questions.
 6. Contribute to the github repo with what you learned. (optional!)
 
-*One important principle of wtfiswednesdays*
-​_Never feel bad about knowing less about a topic than someone else. learn from what they know. someday you will do the same for them; endeavour to never make anyone else feel bad for knowing less about a topic than you do. share what you know. someday they will do the same for you._​
+#### One very important principle of wtfiswednesdays
+**This is a learning environment, and at to achieve this must be welcoming, respectful and accessible to all. At all times we ask participants to keep these two things in mind:**
+
+_Never feel bad about knowing less about a topic than someone else. Learn from what they know! Someday you will do the same for them._
+
+But also... 
+
+_Endeavour to never make anyone else feel bad for knowing less about a topic than you do. Share what you know! Someday they will do the same for you._
 
 ### How can I join?!
 Keep an eye out here for future dates & times. Always a Wednesday. Locations & times will change. 
