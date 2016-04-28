@@ -11,6 +11,7 @@
 * [Visual guide] (http://marklodato.github.io/visual-git-guide/index-en.html)
 * [A Git guide for the perplexed] (http://think-like-a-git.net/)
 * [Github guide to branching and flow] (https://guides.github.com/introduction/flow/)
+* [Understanding git for ages 4 and up video] (https://www.youtube.com/watch?v=1ffBJ4sVUb4)
 
 ### Tutorials
 * [Awesome commandline git tutorial from CodeSchool] (https://www.codeschool.com/courses/try-git)
