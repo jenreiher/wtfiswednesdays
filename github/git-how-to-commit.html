@@ -12,16 +12,56 @@
 <p>
 
 <ol>
-	<li>Have some kind of command line tool on your computer.</li>
-	<li>Start the console.</li>
-	<li>Navigate to the directory where your project files live.</li>
-	<li>If this is the first time you are accessing a project you will need to copy the files to your computer.</li>
-	<li>Once the files are on your computer you can look into the current status of the information.</li>
-	<li>If your files are ready to go you can tell github to take a 'snapshot' of them to get them ready to upload.</li>
-	<li>Once the files are added, you are ready to commit your files permanently into the version history.</li>
-	<li>Depending on how much time has passed, you may want to pull down the latest updates from the server before committing.</li>
-	<li>You are now ready to submit your files up to the repo!</li>
-	<li>Push your changes.</li>
+	<li><b>Have some kind of command line tool on your computer.</b></li>
+		<ol type="a">
+			<li>Link for Mac?</li>
+			<li>Link for PC?</li>
+		</ol>
+	<li><b>Start the console.</b></li>
+	<li><b>Navigate to the directory where your project files live.</b></li>
+		<ol type="a">
+			<li>cd folder // this will change the directory. For example: <em>cd documents</em></li>
+			<li>Use the tab key to fill in more information</li>
+		</ol> 
+	<li><b>If this is the first time you are accessing a project you will need to copy the files to your computer.</b></li>
+		<ol type="a">
+			<li>git clone clone url // e.g. <em>/gitusername/my-first-project</em></li>
+		</ol> 
+	<li><b>Once the files are on your computer you can look into the current status of the information.</b></li>
+		<ol type="a">
+			<li>git status // lists all new or modified files you have that are ready to be committed</li>
+			<li>git log 	//<br/>
+	// use 'q' to exit</li>
+		</ol> 
+	<li><b>If your files are ready to go you can tell github to take a 'snapshot' of them to get them ready to upload.</b></li>
+		<ol type="a">
+			<li>There are two ways to add your files:</li>
+		</ol> 
+			<ol type="i">
+				<li>git add . // add all files</li>
+				<li>git add filename // add individual files</li>
+			</ol>
+	<li><b>Once the files are added, you are ready to commit your files permanently into the version history.</b></li>
+		<ol type="a">
+			<li>git commit -m "your descriptive commit message"<br/> 
+			// e.g. git commit -m "adding a purple box"</li>
+		</ol>
+	<li><b>Depending on how much time has passed, you may want to pull down the latest updates from the server before committing.</b></li>
+		<ol type="a">
+			<li>git pull --rebase<br/>
+			// pulls the latest files from the server and incorporates any changes</li>
+		</ol>
+	<li><b>You are now ready to submit your files up to the repo!</b></li>
+		<ol type="a">
+			<li>git checkout -b <em>branch-name</em> --track origin master<br/>
+			// let's break this down:<br/>
+			<em>checkout</em> = switches you to the specified branch directory and updates it, <em>branch-name</em> = defines the name of the branch you are working on, <em>-b</em> = causes a new branch to be created, and then checked out, -- track =?, : =?</li>
+		</ol>
+	<li><b>Push your changes.</b></li>
+		<ol type = "a">
+			<li>git push origin <em>mybranch[oncomputer]:mybranch[onserver]</em><br/>
+				// upload all local commits to github</li>
+			</ol> 
 </ol> 
 
 
