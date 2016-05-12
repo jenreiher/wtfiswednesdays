@@ -22,3 +22,4 @@
 * [A Git Guide] (http://rogerdudler.github.io/git-guide/)
 * [Github markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 * https://help.github.com/
+* [19 advanced tips for everyday git use] (http://www.alexkras.com/19-git-tips-for-everyday-use/)
